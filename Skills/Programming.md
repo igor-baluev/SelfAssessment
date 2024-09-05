@@ -1,239 +1,239 @@
 ## Programming fundamental concepts
 
 - Concepts
-  - Model k
-  - Modeling h
+  - Model: 🎓 known
+  - Modeling: 👂 heard
   - Subject domain
-  - Algorithm e
-  - Syntax e
-  - Semantics e
-  - Abstraction e
-  - Paradigm e
-  - Programm e
-  - Programming paradigm u
-  - Programming language e
-  - Contract k
-  - Module u
-  - Library e
-  - Package u
-  - Component e
-  - Framework e
-  - Platform u
-  - Source code e
+  - Algorithm: 🙋 explained
+  - Syntax: 🙋 explained
+  - Semantics: 🙋 explained
+  - Abstraction: 🙋 explained
+  - Paradigm: 🙋 explained
+  - Programm: 🙋 explained
+  - Programming paradigm: 🖐️ used
+  - Programming language: 🙋 explained
+  - Contract: 🎓 known
+  - Module: 🖐️ used
+  - Library: 🙋 explained
+  - Package: 🖐️ used
+  - Component: 🙋 explained
+  - Framework: 🙋 explained
+  - Platform: 🖐️ used
+  - Source code: 🙋 explained
   - Object code
-  - Machine code k
-  - Microcode h
-  - Software engineering e
-  - Decomposition h
-  - Control flow u
-  - Data flow h
-  - Code reuse e
-  - Defensive programming e
-  - Don't repeat yourself (DRY) e
-  - KISS principle e
+  - Machine code: 🎓 known
+  - Microcode: 👂 heard
+  - Software engineering: 🙋 explained
+  - Decomposition: 👂 heard
+  - Control flow: 🖐️ used
+  - Data flow: 👂 heard
+  - Code reuse: 🙋 explained
+  - Defensive programming: 🙋 explained
+  - Don't repeat yourself (DRY): 🙋 explained
+  - KISS principle: 🙋 explained
 - Syntax and concepts
-  - Value e
-  - Identifier e
-  - Variable e
-  - Constant e
+  - Value: 🙋 explained
+  - Identifier: 🙋 explained
+  - Variable: 🙋 explained
+  - Constant: 🙋 explained
   - Scalar
-  - Literal e
-  - Expression k
-  - Heap k
-  - Function e
+  - Literal: 🙋 explained
+  - Expression: 🎓 known
+  - Heap: 🎓 known
+  - Function: 🙋 explained
   - Procedure
-  - Method e
-  - Class e
-  - Prototype e
-  - Event e
-  - Type e
-  - Flag u
+  - Method: 🙋 explained
+  - Class: 🙋 explained
+  - Prototype: 🙋 explained
+  - Event: 🙋 explained
+  - Type: 🙋 explained
+  - Flag: 🖐️ used
   - Lexical scope
-  - Code block e
-  - Conditions e
-  - Loops e
-  - Assignment e
-  - Regular expression e
-  - Interface e
-  - Namespaces e
-  - Call stack e
-  - Naming conventions e
-  - Coding conventions e
-  - Camel case e
-  - Snake case e
-  - Kebab case e
-  - Trailing commas e
-  - Return early e
+  - Code block: 🙋 explained
+  - Conditions: 🙋 explained
+  - Loops: 🙋 explained
+  - Assignment: 🙋 explained
+  - Regular expression: 🙋 explained
+  - Interface: 🙋 explained
+  - Namespaces: 🙋 explained
+  - Call stack: 🙋 explained
+  - Naming conventions: 🙋 explained
+  - Coding conventions: 🙋 explained
+  - Camel case: 🙋 explained
+  - Snake case: 🙋 explained
+  - Kebab case: 🙋 explained
+  - Trailing commas: 🙋 explained
+  - Return early: 🙋 explained
   - Fail-fast
 - Types
-  - Primitive types e
-  - Reference types e
-  - Type systems e
-  - Strong typing e
+  - Primitive types: 🙋 explained
+  - Reference types: 🙋 explained
+  - Type systems: 🙋 explained
+  - Strong typing: 🙋 explained
   - Weak typing
-  - Duck typing e
-  - Static typing e
-  - Dynamic typing e
-  - Nominal typing 
+  - Duck typing: 🙋 explained
+  - Static typing: 🙋 explained
+  - Dynamic typing: 🙋 explained
+  - Nominal typing
   - Structural typing
   - Explicit typing
-  - Type inference k
+  - Type inference: 🎓 known
   - Covariance
   - Contravariance
 - Functions
-  - Signature e
-  - Argument e
-  - Parameter e
-  - Pure function e
-  - Lambda expression e
-  - Side effects e
-  - Closure e
+  - Signature: 🙋 explained
+  - Argument: 🙋 explained
+  - Parameter: 🙋 explained
+  - Pure function: 🙋 explained
+  - Lambda expression: 🙋 explained
+  - Side effects: 🙋 explained
+  - Closure: 🙋 explained
   - Partial application
-  - Currying k
-  - Higher order e
-  - Recursion e
+  - Currying: 🎓 known
+  - Higher order: 🙋 explained
+  - Recursion: 🙋 explained
   - Tail call optimisation
-  - Callback e
-  - Listener e
-  - Composition k
-  - Pipe h
-  - Memoize e
-  - Wrapper h
-  - Functor k 
-  - Monad k
+  - Callback: 🙋 explained
+  - Listener: 🙋 explained
+  - Composition: 🎓 known
+  - Pipe: 👂 heard
+  - Memoize: 🙋 explained
+  - Wrapper: 👂 heard
+  - Functor: 🎓 known
+  - Monad: 🎓 known
   - Monoid
-  - Generator k
+  - Generator: 🎓 known
   - Coroutine
 - Data structures
-  - Array e
-  - Structure e
-  - Record h
-  - Enum e
-  - Instance e
-  - Object e
-  - Collection e
-  - Set e
-  - Hash table e
-  - Linked list e
-  - Doubly list e
+  - Array: 🙋 explained
+  - Structure: 🙋 explained
+  - Record: 👂 heard
+  - Enum: 🙋 explained
+  - Instance: 🙋 explained
+  - Object: 🙋 explained
+  - Collection: 🙋 explained
+  - Set: 🙋 explained
+  - Hash table: 🙋 explained
+  - Linked list: 🙋 explained
+  - Doubly list: 🙋 explained
   - Unrolled list
   - Circular list
-  - Queue e
-  - Stack e
-  - Deque e
-  - Tree e
-  - Graph k
-  - Iterator u
-  - Mutable state e
-  - Immutable state e
-  - Serialization e
-  - String parsing e
-  - JSON e
+  - Queue: 🙋 explained
+  - Stack: 🙋 explained
+  - Deque: 🙋 explained
+  - Tree: 🙋 explained
+  - Graph: 🎓 known
+  - Iterator: 🖐️ used
+  - Mutable state: 🙋 explained
+  - Immutable state: 🙋 explained
+  - Serialization: 🙋 explained
+  - String parsing: 🙋 explained
+  - JSON: 🙋 explained
   - JSON5
-  - YAML u
+  - YAML: 🖐️ used
 - Networking
-  - DNS h
-  - CDN u
-  - CORS u
+  - DNS: 👂 heard
+  - CDN: 🖐️ used
+  - CORS: 🖐️ used
   - IPv4
   - IPv6
   - NAT
-  - URL e
-  - URN h
-  - URI k
+  - URL: 🙋 explained
+  - URN: 👂 heard
+  - URI: 🎓 known
 - Process and tools
-  - Compiler k
+  - Compiler: 🎓 known
   - Just-in-time compilation
   - Ahead-of-time compilation
-  - Transpiler e
-  - Linter e
-  - Polyfill e
+  - Transpiler: 🙋 explained
+  - Linter: 🙋 explained
+  - Polyfill: 🙋 explained
   - Interpreter
   - Linker
   - Dynamic linking
   - Static linking
-  - Runtime k
-  - Virtual machine k
+  - Runtime: 🎓 known
+  - Virtual machine: 🎓 known
   - Register-based VM
   - Stack-based VM
-  - Containerization k
-  - Debugger u
-  - Tracing u
-  - Garbage collection k
-  - Refactoring e
-  - Code review e
-  - Exception e
-  - Unittesting e
-  - git u
-  - Github u
-  - Docker h
-  - Kubernetes h
-  - GCC h
-  - LLVM h
+  - Containerization: 🎓 known
+  - Debugger: 🖐️ used
+  - Tracing: 🖐️ used
+  - Garbage collection: 🎓 known
+  - Refactoring: 🙋 explained
+  - Code review: 🙋 explained
+  - Exception: 🙋 explained
+  - Unittesting: 🙋 explained
+  - git: 🖐️ used
+  - Github: 🖐️ used
+  - Docker: 👂 heard
+  - Kubernetes: 👂 heard
+  - GCC: 👂 heard
+  - LLVM: 👂 heard
 - Antipatterns
-  - Magic numbers e
-  - Hard code e
+  - Magic numbers: 🙋 explained
+  - Hard code: 🙋 explained
   - Soft code
-  - Cryptic code e
+  - Cryptic code: 🙋 explained
   - Improbability factor
   - Accidental complexity
   - Action at a distance
-  - Spaghetti e
+  - Spaghetti: 🙋 explained
   - Silver bullet
   - Not invented here
   - Dead code
-  - Unreachable code e
-  - Duplicate code e
-  - Premature optimization e
-  - Micro-optimization e
-  - Nested loops e
-  - Long method/function/procedure e
-  - Long inheritance e
-  - Large class/file k
-  - Too many parameters e
-  - Pass-through parameters 
+  - Unreachable code: 🙋 explained
+  - Duplicate code: 🙋 explained
+  - Premature optimization: 🙋 explained
+  - Micro-optimization: 🙋 explained
+  - Nested loops: 🙋 explained
+  - Long method/function/procedure: 🙋 explained
+  - Long inheritance: 🙋 explained
+  - Large class/file: 🎓 known
+  - Too many parameters: 🙋 explained
+  - Pass-through parameters
   - Accumulate and fire
-  - Use switch/case u
-  - Temporary field 
+  - Use switch/case: 🖐️ used
+  - Temporary field
   - Handle object as instances and hashes at the same time
-  - Use fields instead of arguments e
+  - Use fields instead of arguments: 🙋 explained
   - Data clump
   - Feature envy
   - Monkey patch
   - Yo-yo problem
 - Runtimes and virtual machines
-  - Bytecode k
-  - V8 h
-  - VJM h
+  - Bytecode: 🎓 known
+  - V8: 👂 heard
+  - VJM: 👂 heard
   - CLR
   - Mono
 - Operating systems
   - Interrupts
-  - Drivers u
+  - Drivers: 🖐️ used
   - Kernel
   - Ring
-  - Virtual memory e
-  - File system u
-  - Linux u
-  - Unix h
-  - BSD h
-  - MacOS u
-  - Windows u
+  - Virtual memory: 🙋 explained
+  - File system: 🖐️ used
+  - Linux: 🖐️ used
+  - Unix: 👂 heard
+  - BSD: 👂 heard
+  - MacOS: 🖐️ used
+  - Windows: 🖐️ used
   - Real-time OS
   - Embedded OS
 - Standards
-  - ASCII k
-  - Escape sequence u
+  - ASCII: 🎓 known
+  - Escape sequence: 🖐️ used
   - RFC
   - IETF
   - IANA
   - IEEE
-  - Base64 u
-  - ECMA k
+  - Base64: 🖐️ used
+  - ECMA: 🎓 known
   - ICANN
-  - ISO h
-  - MIME h
-  - OWASP h
-  - UTF-8 k
-  - W3C e
+  - ISO: 👂 heard
+  - MIME: 👂 heard
+  - OWASP: 👂 heard
+  - UTF-8: 🎓 known
+  - W3C: 🙋 explained
   - ODMG

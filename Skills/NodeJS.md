@@ -5,41 +5,41 @@
   - Stateful and stateless servers
   - Nonblocking I/O and blocking code
   - Event loop phases
-  - Event loop microtasks and macrotasks e
-  - Garbage collection k
-  - Node.js LTS schedule 
+  - Event loop microtasks and macrotasks: 🙋 explained
+  - Garbage collection: 🎓 known
+  - Node.js LTS schedule
   - I/O-bound, CPU-bound, memory-bound tasks
-  - Interactive applications (close to real-time) u
+  - Interactive applications (close to real-time): 🖐️ used
 - Modularity, layers and dependencies
-  - CommonJS modules u
-  - ECMAScript modules u
+  - CommonJS modules: 🖐️ used
+  - ECMAScript modules: 🖐️ used
   - Module `node:module`
   - Caching in CJS and ESM
   - Modules as singletons
   - Contexts and scripts module `node:vm`
-  - Dependencies: `npm`, `node_modules` u
-  - Files `package.json`, `package-lock.json` u
+  - Dependencies: `npm`, `node_modules`: 🖐️ used
+  - Files `package.json`, `package-lock.json`: 🖐️ used
   - Module-based permissions model
   - Isolation with modularity
-  - Dependency injection u
+  - Dependency injection: 🖐️ used
   - DI containers
-  - Coupling and cohesion h
-  - Framework agnostic approach h
+  - Coupling and cohesion: 👂 heard
+  - Framework agnostic approach: 👂 heard
 - Environment
-  - Command line arguments u
+  - Command line arguments: 🖐️ used
   - Node.js CLI
   - Process-based permissions
   - Graceful shutdown
   - Clustering
-  - Watch filesystem changes with --watch u
+  - Watch filesystem changes with --watch: 🖐️ used
 - Internal API
   - Streams API
   - Web Streams API
   - Crypto API
   - Password hashing with crypto.scrypt
   - Web Crypto API
-  - File system API (sync and async) u
-  - Copy folder recursively u
+  - File system API (sync and async): 🖐️ used
+  - Copy folder recursively: 🖐️ used
   - Worker threads
   - Performance hooks
   - Native fetch and nodejs/undici
@@ -56,35 +56,35 @@
   - Generating crypto random UUID
   - Module `node:url` vs `new URL`
   - Module `node:assert`
-  - Internationalization h
-  - Blob, File, Buffer, module `node:buffer` h
+  - Internationalization: 👂 heard
+  - Blob, File, Buffer, module `node:buffer`: 👂 heard
   - Module `node:zlib`
 - Network
   - Endpoint throttling
   - ALPN
   - SNI callback
-  - SSL certificates k
+  - SSL certificates: 🎓 known
   - Protocol agnostic approach
-  - Fetch API u
+  - Fetch API: 🖐️ used
   - IncomingMessage
-  - HTTP(S) u
-  - TCP/SSL u
-  - UDP u
+  - HTTP(S): 🖐️ used
+  - TCP/SSL: 🖐️ used
+  - UDP: 🖐️ used
   - TLS
-  - Websocket k
+  - Websocket: 🎓 known
   - SSE
   - HTTP/3 (QUIC)
-  - Long polling u
-  - REST u
+  - Long polling: 🖐️ used
+  - REST: 🖐️ used
   - RPC
-  - Routing u
+  - Routing: 🖐️ used
   - DoS
-  - DDoS h
-  - XSS h
+  - DDoS: 👂 heard
+  - XSS: 👂 heard
   - Path traversal
   - CSRF
-  - DNS h
-  - SQL injection e
+  - DNS: 👂 heard
+  - SQL injection: 🙋 explained
   - noDelay
   - keep-alive
   - IP sticky sessions
@@ -93,12 +93,12 @@
   - Logging
   - Application configuring
   - Testing
-  - CI/CD u
+  - CI/CD: 🖐️ used
   - Readable
   - Writable
   - Transform
   - Back pressure
-  - Buffer h
+  - Buffer: 👂 heard
   - Console
   - Inspector
 - Data access
@@ -107,7 +107,7 @@
   - Active record
   - Query builder
   - Object-Relational Mapping
-  - CRUD u
+  - CRUD: 🖐️ used
   - DTO
 - Error handling and debugging
   - `Error`

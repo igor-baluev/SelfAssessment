@@ -1,100 +1,100 @@
 ## Architecture
 
 - Application structure
-  - Modularity h
-  - Components e
-  - Directories e
-  - GRASP h
-  - SOLID h
-  - GoF patterns h
+  - Modularity: 👂 heard
+  - Components: 🙋 explained
+  - Directories: 🙋 explained
+  - GRASP: 👂 heard
+  - SOLID: 👂 heard
+  - GoF patterns: 👂 heard
   - CQS
   - Leaking abstractions
-  - Multiparadigm code u
-  - Contract programming h
-  - Platform-agnostic h
-  - Transport-agnostic h
-  - Framework-agnostic h
-  - Code coverage u
-  - Cohesion h
-  - Coupling e
-  - Cyclomatic complexity h
-  - Reliability h
-  - Quality u
-  - Availability 
-  - Flexibility 
+  - Multiparadigm code: 🖐️ used
+  - Contract programming: 👂 heard
+  - Platform-agnostic: 👂 heard
+  - Transport-agnostic: 👂 heard
+  - Framework-agnostic: 👂 heard
+  - Code coverage: 🖐️ used
+  - Cohesion: 👂 heard
+  - Coupling: 🙋 explained
+  - Cyclomatic complexity: 👂 heard
+  - Reliability: 👂 heard
+  - Quality: 🖐️ used
+  - Availability
+  - Flexibility
   - Law of Demeter (LoD)
 - Application architecture
-  - Isolation between layer 
-  - Domain-specific language (DSL) h
-  - System vs applied code h
-  - Multilayer approach h
+  - Isolation between layer
+  - Domain-specific language (DSL): 👂 heard
+  - System vs applied code: 👂 heard
+  - Multilayer approach: 👂 heard
   - Hexagonal architecture
-  - Separation of concerns (SoC) h
-  - Metaprogramming h
+  - Separation of concerns (SoC): 👂 heard
+  - Metaprogramming: 👂 heard
   - Inversion of control (IoC)
-  - Dependency injection (DI) u
+  - Dependency injection (DI): 🖐️ used
   - Clean architecture
   - Domain-driven design (DDD)
-  - Pub/sub e
+  - Pub/sub: 🙋 explained
   - Message brocker
   - Agent
   - Service locator
-  - Message Queue (MQ) h
+  - Message Queue (MQ): 👂 heard
   - CQRS
   - Event sourcing
   - E-R data modeling
   - Entity-relationship diagram
   - IDEF1X
-  - UML h
+  - UML: 👂 heard
   - Work breakdown structure
-  - Budget estimation h
+  - Budget estimation: 👂 heard
   - Distributed systems
   - High-intensive computing
-  - Load balancing h
+  - Load balancing: 👂 heard
   - Gateways
-  - On-premises u
+  - On-premises: 🖐️ used
   - IaaS
   - PaaS
-  - SaaS e
+  - SaaS: 🙋 explained
   - FaaS clouds
-  - Serverless u
-  - Vendor lock-in e
+  - Serverless: 🖐️ used
+  - Vendor lock-in: 🙋 explained
   - Bus factor
 - Solution architecture
-  - A software requirements specification (SRS) u
-  - Solution visions 
+  - A software requirements specification (SRS): 🖐️ used
+  - Solution visions
   - Solution capabilities
-  - System design h
+  - System design: 👂 heard
   - Process modelling
   - Data modelling
-  - Solution components h
-  - Risk assessment h
-  - Non Functional Requirements (NFR) h
-  - Clouds u
-  - BPMN 
+  - Solution components: 👂 heard
+  - Risk assessment: 👂 heard
+  - Non Functional Requirements (NFR): 👂 heard
+  - Clouds: 🖐️ used
+  - BPMN
   - Low-code
-  - No-code u
-  - Metric u
+  - No-code: 🖐️ used
+  - Metric: 🖐️ used
   - Metric abuse
   - ACID
   - CAP theorem
-  - Single source of truth (SSOT) u
+  - Single source of truth (SSOT): 🖐️ used
 - Enterprise architecture
-  - Understanding business needs h
+  - Understanding business needs: 👂 heard
   - Enterprise strategy
   - Integration with subsystems
   - Enterprise vision
   - Enterprise capabilities
-  - Project scope e
+  - Project scope: 🙋 explained
   - Enterprise service bus
   - Service-oriented architecture
-  - Microservices h
+  - Microservices: 👂 heard
   - Process choreography
   - Service orchestration
-  - Data warehouse h
-  - Business Intelligence u
+  - Data warehouse: 👂 heard
+  - Business Intelligence: 🖐️ used
   - OLAP
   - OLTP
   - Conways Law
-  - Quality assurance e
+  - Quality assurance: 🙋 explained
   - Engineering Hygiene

@@ -1,75 +1,75 @@
 ## Multi-paradigm programming
 
 - Theory
-  - Procedural programming k
-  - Imperative programming k
+  - Procedural programming: 🎓 known
+  - Imperative programming: 🎓 known
   - Structured programming
   - Non-structured programming
-  - Functional programming k
-  - Prototype-based programming e
-  - Object-oriented programming e
+  - Functional programming: 🎓 known
+  - Prototype-based programming: 🙋 explained
+  - Object-oriented programming: 🙋 explained
   - Object-based programming
   - Generic programming
-  - Concurrent computing h
-  - Asynchronous programming u
+  - Concurrent computing: 👂 heard
+  - Asynchronous programming: 🖐️ used
   - Parallel programming
-  - Reactive programming h
+  - Reactive programming: 👂 heard
   - Functional-reactive (FRP)
-  - Automata-based programming h
+  - Automata-based programming: 👂 heard
   - Domain-specific languages
-  - Multi-paradigm programming u
+  - Multi-paradigm programming: 🖐️ used
   - Metaprogramming
   - Actor model
   - Lambda calculus
-  - Black box k
-  - Information hiding h
+  - Black box: 🎓 known
+  - Information hiding: 👂 heard
   - Aspect-oriented programming
   - Anemic domain model
-  - Class composition k
+  - Class composition: 🎓 known
 - OOP basics
-  - Constructor e
-  - Operator `new` e
-  - Static method e
-  - Method e
-  - Async method e
-  - Getters, Setters e
-  - Public fields e
-  - Private fields e
-  - Field declarations 
-  - Inheritance e
-  - Parent class e
-  - Polymorphism e
-  - Abstract class k
-  - Interface e
-  - Encapsulation k
+  - Constructor: 🙋 explained
+  - Operator `new`: 🙋 explained
+  - Static method: 🙋 explained
+  - Method: 🙋 explained
+  - Async method: 🙋 explained
+  - Getters, Setters: 🙋 explained
+  - Public fields: 🙋 explained
+  - Private fields: 🙋 explained
+  - Field declarations
+  - Inheritance: 🙋 explained
+  - Parent class: 🙋 explained
+  - Polymorphism: 🙋 explained
+  - Abstract class: 🎓 known
+  - Interface: 🙋 explained
+  - Encapsulation: 🎓 known
   - Hidden class
   - Object form
-  - Instance e
+  - Instance: 🙋 explained
   - Introspection
   - Reflection
-  - The diamond problem k
+  - The diamond problem: 🎓 known
 - GRASP
   - Information expert
   - Creator
   - Controller
   - Indirection
-  - Low coupling h
-  - High cohesion h
+  - Low coupling: 👂 heard
+  - High cohesion: 👂 heard
   - Protected variations
   - Pure fabrication
 - SOLID
-  - Single-responsibility principle (SRP) k
-  - Open–closed principle (OCP) h
+  - Single-responsibility principle (SRP): 🎓 known
+  - Open–closed principle (OCP): 👂 heard
   - Liskov substitution principle (LSP)
-  - Interface segregation principle (ISP) h
+  - Interface segregation principle (ISP): 👂 heard
   - Dependency inversion principle (DIP)
 - Patterns
-  - Singleton e
-  - Factory Method u
+  - Singleton: 🙋 explained
+  - Factory Method: 🖐️ used
   - Abstract Factory
-  - Adapter h
-  - Observer u
-  - Strategy 
+  - Adapter: 👂 heard
+  - Observer: 🖐️ used
+  - Strategy
   - Facade
   - Proxy
   - Chain of Responsibility
@@ -77,7 +77,7 @@
   - Iterator
   - State
   - Bridge
-  - Builder h
+  - Builder: 👂 heard
   - Prototyp
   - Composite
   - Decorator

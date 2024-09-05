@@ -5,41 +5,41 @@
   - Stateful and stateless servers
   - Nonblocking I/O and blocking code
   - Event loop phases
-  - Event loop microtasks and macrotasks
-  - Garbage collection
-  - Node.js LTS schedule
+  - Event loop microtasks and macrotasks e
+  - Garbage collection k
+  - Node.js LTS schedule 
   - I/O-bound, CPU-bound, memory-bound tasks
-  - Interactive applications (close to real-time)
+  - Interactive applications (close to real-time) u
 - Modularity, layers and dependencies
-  - CommonJS modules
-  - ECMAScript modules
+  - CommonJS modules u
+  - ECMAScript modules u
   - Module `node:module`
   - Caching in CJS and ESM
   - Modules as singletons
   - Contexts and scripts module `node:vm`
-  - Dependencies: `npm`, `node_modules`
-  - Files `package.json`, `package-lock.json`
+  - Dependencies: `npm`, `node_modules` u
+  - Files `package.json`, `package-lock.json` u
   - Module-based permissions model
   - Isolation with modularity
-  - Dependency injection
+  - Dependency injection u
   - DI containers
-  - Coupling and cohesion
-  - Framework agnostic approach
+  - Coupling and cohesion h
+  - Framework agnostic approach h
 - Environment
-  - Command line arguments
+  - Command line arguments u
   - Node.js CLI
   - Process-based permissions
   - Graceful shutdown
   - Clustering
-  - Watch filesystem changes with --watch
+  - Watch filesystem changes with --watch u
 - Internal API
   - Streams API
   - Web Streams API
   - Crypto API
   - Password hashing with crypto.scrypt
   - Web Crypto API
-  - File system API (sync and async)
-  - Copy folder recursively
+  - File system API (sync and async) u
+  - Copy folder recursively u
   - Worker threads
   - Performance hooks
   - Native fetch and nodejs/undici
@@ -56,35 +56,35 @@
   - Generating crypto random UUID
   - Module `node:url` vs `new URL`
   - Module `node:assert`
-  - Internationalization
-  - Blob, File, Buffer, module `node:buffer`
+  - Internationalization h
+  - Blob, File, Buffer, module `node:buffer` h
   - Module `node:zlib`
 - Network
   - Endpoint throttling
   - ALPN
   - SNI callback
-  - SSL certificates
+  - SSL certificates k
   - Protocol agnostic approach
-  - Fetch API
+  - Fetch API u
   - IncomingMessage
-  - HTTP(S)
-  - TCP/SSL
-  - UDP
+  - HTTP(S) u
+  - TCP/SSL u
+  - UDP u
   - TLS
-  - Websocket
+  - Websocket k
   - SSE
   - HTTP/3 (QUIC)
-  - Long polling
-  - REST
+  - Long polling u
+  - REST u
   - RPC
-  - Routing
+  - Routing u
   - DoS
-  - DDoS
-  - XSS
+  - DDoS h
+  - XSS h
   - Path traversal
   - CSRF
-  - DNS
-  - SQL injection
+  - DNS h
+  - SQL injection e
   - noDelay
   - keep-alive
   - IP sticky sessions
@@ -93,12 +93,12 @@
   - Logging
   - Application configuring
   - Testing
-  - CI/CD
+  - CI/CD u
   - Readable
   - Writable
   - Transform
   - Back pressure
-  - Buffer
+  - Buffer h
   - Console
   - Inspector
 - Data access
@@ -107,7 +107,7 @@
   - Active record
   - Query builder
   - Object-Relational Mapping
-  - CRUD
+  - CRUD u
   - DTO
 - Error handling and debugging
   - `Error`

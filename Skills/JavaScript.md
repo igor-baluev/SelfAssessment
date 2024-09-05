@@ -1,7 +1,7 @@
 ## JavaScript
 
 - Language
-  - `Object` e
+  - `Object`: 🙋 explained
   - `Function`
   - `Boolean`
   - `Number`

@@ -18,8 +18,8 @@
   - `...rest` u
   - `typeof` e
   - Destructuring u
-  - Generators h
-  - Iterators h
+  - Generators k
+  - Iterators k
   - Async generator h
   - Async iterator h
   - Chaining e
@@ -30,7 +30,7 @@
   - `globalThis` e
   - `window` e
   - Getters and setters u
-  - `__proto__` u
+  - `__proto__` k
   - `prototype` e
   - Equality operators e
   - Logical operators e
@@ -38,7 +38,7 @@
   - Bitwise operators h
   - Ternary operator e
   - `void` h
-  - `yield` h
+  - `yield` k
   - `await` e
   - Template literal
   - Strict mode u
@@ -50,10 +50,10 @@
   - `static` e
   - `Number.parseInt` e
   - `Number.parseFloat` e
-  - Property descriptors h
-  - Sealing properties h
-  - Freezing properties h
-  - Computed properties h
+  - Property descriptors k
+  - Sealing properties k
+  - Freezing properties k
+  - Computed properties k
   - Instance class fields e
   - Static class fields e
   - Private class fields e
@@ -65,7 +65,7 @@
   - `for` e
   - `for..in` u
   - `for..of` u
-  - `for await` h
+  - `for await` k
   - `throw` u
   - `break` e
   - `continue` e
@@ -93,13 +93,13 @@
   - `Array` e
   - `Map` u
   - `Set` u
-  - `WeakMap` h
-  - `WeakSet` h
-  - Typed arrays h
+  - `WeakMap` k
+  - `WeakSet` k
+  - Typed arrays k
   - Mixins h
   - `Object.assign` e
 - Standard classes and namespaces
-  - `Proxy` h
+  - `Proxy` k
   - `RegExp` e
   - `Date` u
   - `Math` u

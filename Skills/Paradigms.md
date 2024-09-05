@@ -1,75 +1,75 @@
 ## Multi-paradigm programming
 
 - Theory
-  - Procedural programming
-  - Imperative programming
+  - Procedural programming k
+  - Imperative programming k
   - Structured programming
   - Non-structured programming
-  - Functional programming
-  - Prototype-based programming
-  - Object-oriented programming
+  - Functional programming k
+  - Prototype-based programming e
+  - Object-oriented programming e
   - Object-based programming
   - Generic programming
-  - Concurrent computing
-  - Asynchronous programming
+  - Concurrent computing h
+  - Asynchronous programming u
   - Parallel programming
-  - Reactive programming
+  - Reactive programming h
   - Functional-reactive (FRP)
-  - Automata-based programming
+  - Automata-based programming h
   - Domain-specific languages
-  - Multi-paradigm programming
+  - Multi-paradigm programming u
   - Metaprogramming
   - Actor model
   - Lambda calculus
-  - Black box
-  - Information hiding
+  - Black box k
+  - Information hiding h
   - Aspect-oriented programming
   - Anemic domain model
-  - Class composition
+  - Class composition k
 - OOP basics
-  - Constructor
-  - Operator `new`
-  - Static method
-  - Method
-  - Async method
-  - Getters, Setters
-  - Public fields
-  - Private fields
-  - Field declarations
-  - Inheritance
-  - Parent class
-  - Polymorphism
-  - Abstract class
-  - Interface
-  - Encapsulation
+  - Constructor e
+  - Operator `new` e
+  - Static method e
+  - Method e
+  - Async method e
+  - Getters, Setters e
+  - Public fields e
+  - Private fields e
+  - Field declarations 
+  - Inheritance e
+  - Parent class e
+  - Polymorphism e
+  - Abstract class k
+  - Interface e
+  - Encapsulation k
   - Hidden class
   - Object form
-  - Instance
+  - Instance e
   - Introspection
   - Reflection
-  - The diamond problem
+  - The diamond problem k
 - GRASP
   - Information expert
   - Creator
   - Controller
   - Indirection
-  - Low coupling
-  - High cohesion
+  - Low coupling h
+  - High cohesion h
   - Protected variations
   - Pure fabrication
 - SOLID
-  - Single-responsibility principle (SRP)
-  - Open–closed principle (OCP)
+  - Single-responsibility principle (SRP) k
+  - Open–closed principle (OCP) h
   - Liskov substitution principle (LSP)
-  - Interface segregation principle (ISP)
+  - Interface segregation principle (ISP) h
   - Dependency inversion principle (DIP)
 - Patterns
-  - Singleton
-  - Factory Method
+  - Singleton e
+  - Factory Method u
   - Abstract Factory
-  - Adapter
-  - Observer
-  - Strategy
+  - Adapter h
+  - Observer u
+  - Strategy 
   - Facade
   - Proxy
   - Chain of Responsibility
@@ -77,8 +77,8 @@
   - Iterator
   - State
   - Bridge
-  - Builder
-  - Prototype
+  - Builder h
+  - Prototyp
   - Composite
   - Decorator
   - Flyweight
